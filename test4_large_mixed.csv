@@ -1,0 +1,31 @@
+Medicine_Name,Category,Quantity,Price,Expiry_Date,Daily_Sales
+Paracetamol,Tablet,100,2.5,2026-12-15,5
+Amoxicillin,Capsule,50,8.0,2026-10-20,3
+Cetirizine,Tablet,20,4.0,2026-09-30,2
+Ibuprofen,Tablet,80,3.0,2026-11-10,4
+Cough Syrup,Syrup,30,6.5,2026-10-05,1
+Insulin,Injection,15,45.0,2026-09-28,1
+Vitamin C,Tablet,200,1.5,2027-05-01,6
+Azithromycin,Capsule,40,12.0,2026-09-27,2
+Antacid Gel,Syrup,60,5.0,2026-10-15,3
+Metformin,Tablet,90,3.5,2026-12-01,4
+Aspirin,Tablet,70,2.0,2026-09-26,3
+ORS Sachet,Powder,120,1.0,2026-11-25,8
+Diclofenac Gel,Cream,25,7.5,2026-10-02,1
+Loratadine,Tablet,35,4.5,2027-01-15,2
+Ranitidine,Tablet,45,3.0,2026-09-29,2
+Amlodipine,Tablet,55,4.0,2027-02-20,3
+Salbutamol Inhaler,Inhaler,18,15.0,2026-11-05,1
+Doxycycline,Capsule,32,9.5,2026-08-15,2
+Hydrocortisone Cream,Cream,22,6.0,2027-03-10,1
+Omeprazole,Capsule,65,5.5,2026-12-25,3
+Losartan,Tablet,48,4.8,2027-04-01,2
+Ceftriaxone Injection,Injection,10,25.0,2026-10-08,1
+Multivitamin Syrup,Syrup,75,4.2,2027-06-15,4
+Iron Tablet,Tablet,110,2.8,2026-11-30,5
+Insulin Glargine,Injection,8,60.0,2026-10-12,1
+Ondansetron,Tablet,28,3.2,2026-09-25,2
+Ciprofloxacin,Tablet,52,6.5,2026-08-30,3
+Betadine Solution,Solution,14,4.5,2026-12-10,1
+Zinc Sulphate Syrup,Syrup,38,3.8,2027-01-05,2
+Naproxen,Tablet,42,3.5,2026-10-18,2

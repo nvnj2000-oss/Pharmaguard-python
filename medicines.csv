@@ -1,0 +1,16 @@
+Medicine_Name,Category,Quantity,Price,Expiry_Date,Daily_Sales
+Paracetamol,Tablet,100,2.5,2026-12-15,5
+Amoxicillin,Capsule,50,8.0,2026-10-20,3
+Cetirizine,Tablet,20,4.0,2026-09-30,2
+Ibuprofen,Tablet,80,3.0,2026-11-10,4
+Cough Syrup,Syrup,30,6.5,2026-10-05,1
+Insulin,Injection,15,45.0,2026-09-28,1
+Vitamin C,Tablet,200,1.5,2027-05-01,6
+Azithromycin,Capsule,40,12.0,2026-09-27,2
+Antacid Gel,Syrup,60,5.0,2026-10-15,3
+Metformin,Tablet,90,3.5,2026-12-01,4
+Aspirin,Tablet,70,2.0,2026-09-26,3
+ORS Sachet,Powder,120,1.0,2026-11-25,8
+Diclofenac Gel,Cream,25,7.5,2026-10-02,1
+Loratadine,Tablet,35,4.5,2027-01-15,2
+Ranitidine,Tablet,45,3.0,2026-09-29,2

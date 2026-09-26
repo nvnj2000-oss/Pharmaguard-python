@@ -1,0 +1,7 @@
+Medicine_Name,Category,Quantity,Price,Expiry_Date,Daily_Sales
+Paracetamol,Tablet,40,2.5,2026-08-01,3
+Amoxicillin,Capsule,20,8.0,2026-07-15,2
+Cough Syrup,Syrup,15,6.5,2026-09-01,1
+Insulin,Injection,5,45.0,2026-06-20,1
+Aspirin,Tablet,60,2.0,2026-09-10,4
+Ranitidine,Tablet,25,3.0,2026-05-05,2

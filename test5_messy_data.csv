@@ -1,0 +1,11 @@
+Medicine_Name,Category,Quantity,Price,Expiry_Date,Daily_Sales
+Paracetamol,Tablet,100,2.5,2026-12-15,5
+Paracetamol,Tablet,100,2.5,2026-12-15,5
+Amoxicillin,Capsule,,8.0,2026-10-20,3
+Cetirizine,Tablet,20,,2026-09-30,2
+,Tablet,15,3.0,2026-11-01,1
+Ibuprofen,Tablet,abc,3.0,2026-11-10,4
+Cough Syrup,Syrup,30,6.5,,1
+Insulin,Injection,15,45.0,2026-09-28,
+Vitamin C,Tablet,200,1.5,2027-05-01,6
+Azithromycin,Capsule,-10,12.0,2026-09-27,2
